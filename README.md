@@ -4,7 +4,7 @@ Experienced Freelance Software Engineer with a demonstrated history of working i
 
 Skills: Python / JS / Django / HTML / CSS
 
-- 🔭 I’m currently working on [Freelancer.com](https://freelancer.com/u/Zubayerskd "My freelancer profile") 
+- 🔭 I’m currently working on [WAS Insurance](https://wiseandsilent.com "My Current company") 
 - 🌱 I’m currently learning DRF 
 - 👯 I’m looking to collaborate on Open Source 
 - 💬 Ask me about Python Backend Development 
