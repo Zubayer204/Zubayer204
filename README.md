@@ -38,4 +38,4 @@ Experienced Freelance Software Engineer with a demonstrated history of working i
 
 <a href="http://www.github.com/Zubayer204"><img src="https://github-readme-stats.vercel.app/api?username=Zubayer204&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zubayer204's GitHub stats" /></a><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zubayer204&bg_color=121212&color=658f95&line=745353&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=zubayer204&bg_color=121212&color=658f95&line=745353&point=403d3d&area=true&hide_border=true)](https://github.com/Zubayer204)
