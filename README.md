@@ -3,7 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Freelance Software Engineer
 -------------------------
-Experienced Freelance Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Engineering, Python (Programming Language), React.js, Node.js, and Django. Strong engineering professional with a 10th grade focused in Physical Sciences from S.M. Model Govt. High School.
+Experienced Freelance Software Engineer passionate about Python and Back-end Development, seeking opportunities to contribute to innovative projects. With a love for technology and a relentless drive to learn, I thrive on creative solutions that push boundaries. 
+
+As a Freshman at the University of Southern Mississippi, I am already making my mark in the world of software development. Leveraging my expertise in Python and my proficiency in HTML, CSS, and JavaScript, I have successfully tackled numerous back-end development projects. My dynamic skill set allows me to not only code but also think critically and problem-solve effectively. 
+  
+With a proven track record in freelance work, I have collaborated with diverse clients to deliver tailored solutions that meet their unique business needs. I am driven by the desire to constantly refine my abilities and stay up to date with the latest industry trends. By leveraging my proactive mindset, I ensure that I am always at the forefront of innovation, ready to adapt to new technologies and emerging methodologies. 
+
+Throughout my professional journey, I have demonstrated a strong work ethic and a commitment to excellence. I consistently deliver high-quality code and prioritize efficiency in my solutions. Leveraging my creativity, I approach each project with fresh perspectives and find innovative ways to optimize performance and user experience. 
 
 * 🌍  I'm based in Hattiesburg, Mississippi
 * 🖥️  See my portfolio at [zubayer.one](http://zubayer.one)
