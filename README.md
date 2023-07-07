@@ -42,6 +42,6 @@ Throughout my professional journey, I have demonstrated a strong work ethic and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Zubayer204"><img src="https://github-readme-stats.vercel.app/api?username=Zubayer204&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zubayer204's GitHub stats" /></a><br>
+<a href="http://www.github.com/Zubayer204"><img src="https://github-readme-stats.vercel.app/api?username=Zubayer204" /></a><br>
 
 [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=zubayer204&bg_color=121212&color=658f95&line=745353&point=403d3d&area=true&hide_border=true)](https://github.com/Zubayer204)
