@@ -13,7 +13,7 @@ Throughout my professional journey, I have demonstrated a strong work ethic and 
 
 * 🌍  I'm based in Hattiesburg, Mississippi
 * 🖥️  See my portfolio at [zubayer.one](http://zubayer.one)
-* ✉️  You can contact me at [zubayer.skd@gmail.com](mailto:zubayer.skd@gmail.com)
+* ✉️  You can contact me at [zubayer.rahaman@wiseandsilent.com](mailto:zubayer.rahaman@wiseandsilent.com)
 * 🚀  I'm currently working on [WAS Insurance](http://wiseandsilent.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Open Source Projects
