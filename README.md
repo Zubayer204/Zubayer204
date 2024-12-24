@@ -5,7 +5,7 @@ Freelance Software Engineer
 -------------------------
 Experienced Freelance Software Engineer passionate about Python and Back-end Development, seeking opportunities to contribute to innovative projects. With a love for technology and a relentless drive to learn, I thrive on creative solutions that push boundaries. 
 
-As a Freshman at the University of Southern Mississippi, I am already making my mark in the world of software development. Leveraging my expertise in Python and my proficiency in HTML, CSS, and JavaScript, I have successfully tackled numerous back-end development projects. My dynamic skill set allows me to not only code but also think critically and problem-solve effectively. 
+As a sophomore at the University of Southern Mississippi, I am already making my mark in the world of software development. Leveraging my expertise in Python and my proficiency in HTML, CSS, and JavaScript, I have successfully tackled numerous back-end development projects. My dynamic skill set allows me to not only code but also think critically and problem-solve effectively. 
   
 With a proven track record in freelance work, I have collaborated with diverse clients to deliver tailored solutions that meet their unique business needs. I am driven by the desire to constantly refine my abilities and stay up to date with the latest industry trends. By leveraging my proactive mindset, I ensure that I am always at the forefront of innovation, ready to adapt to new technologies and emerging methodologies. 
 
@@ -14,8 +14,8 @@ Throughout my professional journey, I have demonstrated a strong work ethic and 
 * 🌍  I'm based in Hattiesburg, Mississippi
 * 🖥️  See my portfolio at [zubayer.one](http://zubayer.one)
 * ✉️  You can contact me at [zubayer.rahaman@wiseandsilent.com](mailto:zubayer.rahaman@wiseandsilent.com)
-* 🚀  I'm currently working on [WAS Insurance](http://wiseandsilent.com)
-* 🧠  I'm learning TypeScript
+* 🚀  I'm currently working at [WAS Insurance](http://wiseandsilent.com)
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I live to learn!
 
