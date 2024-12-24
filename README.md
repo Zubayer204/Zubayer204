@@ -39,9 +39,3 @@ Throughout my professional journey, I have demonstrated a strong work ethic and 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Zubayer204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zuba-the-coder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14739067/zubayer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Zubayer204"><img src="https://github-readme-stats.vercel.app/api?username=Zubayer204" /></a><br>
-
-[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=zubayer204&bg_color=121212&color=658f95&line=745353&point=403d3d&area=true&hide_border=true)](https://github.com/Zubayer204)
